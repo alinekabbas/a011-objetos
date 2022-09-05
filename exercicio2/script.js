@@ -24,4 +24,4 @@ console.log(filme.elenco[3])
 console.log(filme.transmissoesHoje)
 
 //d) Qual o código para exibir o **horário** de transmissão do filme no `Canal Brasil`?
-console.log(filme.transmissoesHoje[1])
+console.log(filme.transmissoesHoje[1].horario)
